@@ -1,4 +1,3 @@
-# this is a comment testing the automatic build for jenkins
 <?xml version="1.0" encoding="UTF-8"?>
 <project
     xmlns="http://maven.apache.org/POM/4.0.0"
